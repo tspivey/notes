@@ -66,3 +66,8 @@ Python and GTK, inaccessible because of the toolkit it uses.
 Version: 10.0.29.0
 
 Create account screen has no labels, haven't tested beyond this. And paid.
+
+# Notable
+Version: 1.0.1
+
+Editor is inaccessible.
