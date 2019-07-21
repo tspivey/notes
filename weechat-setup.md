@@ -4,6 +4,11 @@ and layout enough usage instructions to be able to successfully use WeeChat as a
 This guide will not walk you through installing WeeChat, nor will it teach you basic IRC usage. There are already great resources on the net for that.
 WeeChat is packed with tons of options, and has excellent [documentation](https://weechat.org/doc/).
 
+## fset plugin
+WeeChat loads the fset plugin by default, and this doesn't work that well with screen readers. To unload it:
+
+    /plugin unload fset
+
 ## WeeChat Options
 
 Don't notify of activity for everything, just highlights, private messages, etc:
